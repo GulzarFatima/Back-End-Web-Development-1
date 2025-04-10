@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cumulative1.props" />
+</Project>
