@@ -1,0 +1,189 @@
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\appsettings.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.staticwebassets.runtime.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.staticwebassets.endpoints.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.exe
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.deps.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.runtimeconfig.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\cumulative1.pdb
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.csproj.AssemblyReference.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.AssemblyInfoInputs.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.AssemblyInfo.cs
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.csproj.CoreCompileInputs.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cs
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.sourcelink.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\scopedcss\bundle\cumulative1.styles.css
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\scopedcss\projectbundle\cumulative1.bundle.scp.css
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets\msbuild.build.cumulative1.props
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cumulative1.props
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cumulative1.props
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulati.0D926874.Up2Date
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\refint\cumulative1.dll
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.pdb
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\cumulative1.genruntimeconfig.cache
+C:\Users\n01615562\source\repos\CSharp.Cumulative01\Cumulative01\obj\Debug\net8.0\ref\cumulative1.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\appsettings.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.staticwebassets.runtime.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.staticwebassets.endpoints.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.exe
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.deps.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.runtimeconfig.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.pdb
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.csproj.AssemblyReference.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.AssemblyInfoInputs.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.AssemblyInfo.cs
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.csproj.CoreCompileInputs.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cs
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.sourcelink.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\bundle\cumulative1.styles.css
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\projectbundle\cumulative1.bundle.scp.css
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.build.cumulative1.props
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cumulative1.props
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cumulative1.props
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulati.0D926874.Up2Date
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\refint\cumulative1.dll
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.pdb
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.genruntimeconfig.cache
+C:\Users\n01615562\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\ref\cumulative1.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\appsettings.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.staticwebassets.runtime.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.staticwebassets.endpoints.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.exe
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.deps.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.runtimeconfig.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\cumulative1.pdb
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.csproj.AssemblyReference.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.AssemblyInfoInputs.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.AssemblyInfo.cs
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.csproj.CoreCompileInputs.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.RazorAssemblyInfo.cs
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.sourcelink.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\bundle\cumulative1.styles.css
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\scopedcss\projectbundle\cumulative1.bundle.scp.css
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.cumulative1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.build.cumulative1.props
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cumulative1.props
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cumulative1.props
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulati.0D926874.Up2Date
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\refint\cumulative1.dll
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.pdb
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\cumulative1.genruntimeconfig.cache
+C:\Users\gulfa\Documents\GitHub\Back-End-Web-Development-1\Assign_Cumulative 02\cumulative2\obj\Debug\net8.0\ref\cumulative1.dll
