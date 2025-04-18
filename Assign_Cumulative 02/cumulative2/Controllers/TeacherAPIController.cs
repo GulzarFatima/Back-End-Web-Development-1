@@ -165,18 +165,19 @@ namespace cumulative1.Controllers
         }
 
         /// <summary>
-        /// Deletes a teacher from the database by ID.
+        /// Deletes a teacher from the database by their ID.
         /// </summary>
         /// <param name="TeacherId">The ID of the teacher to delete.</param>
         /// <example>
         /// DELETE api/DeleteTeacher/1
         /// </example>
         /// <returns>
-        /// Number of rows affected by the delete operation.
+        /// Number of rows deleted from the database. 
         /// </returns>
+        
         [HttpDelete]
         [Route("DeleteTeacher/{TeacherId}")]
-        public int DeleteTeacher(int TeacherId)
+        public IActionResult DeleteTeacher(int TeacherId)
         {
             // Connect to the database.
             MySqlConnection Connection = _context.GetConnection();
@@ -195,7 +196,64 @@ namespace cumulative1.Controllers
             // Execute the delete command and store the number of rows affected.
             int RowsAffected = Command.ExecuteNonQuery();
 
-            return RowsAffected;
+            if (RowsAffected == 0)
+            {
+                // If no rows were affected, the teacher was not found.
+                return NotFound($"No teacher found with ID: {TeacherId}");
+            }
+
+            return Ok($"Deleted teacher with ID: {TeacherId} successfully. Rows affected: {RowsAffected}");
+        }
+
+        /// <summary>
+        /// Adds a new teacher to the database.
+        /// </summary>
+        /// <param name="teacher">The teacher object containing the new teacher's data.</param>
+        /// <returns>
+        /// A confirmation message with the ID of the newly added teacher
+        /// </returns>
+        /// <example>
+        /// POST /api/TeacherAPI/addATeacher
+        /// Body: { "TeacherFirstName": "Sarah", "TeacherLastName": "Josh", "EmployeeID": "ABC123", "HireDate": "2021-05-15", "Salary": 66000 }
+        /// </example>
+        /// <returns>
+        /// A string message confirming the addition and returning the ID of the new teacher.
+        /// </returns>
+
+
+        [HttpPost]
+        [Route(template: "addATeacher")]
+        public IActionResult addATeacher([FromBody] Teacher teacher)
+        {
+            // Check if required fields are empty
+            if (string.IsNullOrWhiteSpace(teacher.TeacherFirstName) || string.IsNullOrWhiteSpace(teacher.TeacherLastName))
+            {
+                return BadRequest("First name and last name are required.");
+            }
+
+            int TagId = 0;
+            using (MySqlConnection Connection = _context.GetConnection())
+            {
+                Connection.Open();
+
+                MySqlCommand Command = Connection.CreateCommand();
+
+                Command.CommandText = "INSERT INTO teachers (teacherfname, teacherlname, employeenumber, hiredate, salary)" +
+                                      " VALUES (@teacherfname, @teacherlname, @employeeID, @HireDate, @Salary);";
+
+                Command.Parameters.AddWithValue("@teacherfname", teacher.TeacherFirstName);
+                Command.Parameters.AddWithValue("@teacherlname", teacher.TeacherLastName);
+                Command.Parameters.AddWithValue("@employeeID", teacher.EmployeeID);
+                Command.Parameters.AddWithValue("@HireDate", teacher.HireDate);
+                Command.Parameters.AddWithValue("@Salary", teacher.Salary);
+
+                Command.Prepare();
+                Command.ExecuteNonQuery();
+
+                TagId = Convert.ToInt32(Command.LastInsertedId);
+            }
+
+            return Ok($"Added Successfully with ID: {TagId}");
         }
 
     }

@@ -60,5 +60,92 @@ namespace cumulative1.Controllers
             // Returns teacher's details on the page.
             return View(teach1);
         }
+
+     
+        /// <summary> ADD
+        /// Adds a new teacher using form data submitted via POST.
+        /// </summary>
+        /// <param name="TeacherFname">Teacher's first name</param>
+        /// <param name="TeacherLname">Teacher's last name</param>
+        /// <param name="EmployeeID">Employee number</param>
+        /// <param name="HireDate">Date the teacher was hired</param>
+        /// <param name="Salary">Teacher's salary (as a string to convert to double)</param>
+        /// <returns>
+        /// Redirects to the List view after successful addition
+        /// </returns>
+
+        [HttpPost]
+        public IActionResult AddATeacher(string TeacherFname,String TeacherLname,String EmployeeID,DateTime HireDate,string Salary)
+
+        {
+            // Initiative: Check if name fields are empty
+            if (string.IsNullOrWhiteSpace(TeacherFname) || string.IsNullOrWhiteSpace(TeacherLname))
+            {
+                ViewBag.Error = "First name and last name can not be empty.";
+                return View("New");
+            }
+
+            // Continue if validation passed
+         
+            Teacher teacher = new Teacher();
+            teacher.TeacherFirstName = TeacherFname;
+            teacher.TeacherLastName = TeacherLname;
+            teacher.EmployeeID = EmployeeID;
+            teacher.HireDate = HireDate;
+            teacher.Salary = Convert.ToDouble(Salary);
+
+            _api.addATeacher(teacher);
+            return RedirectToAction("List");
+
+        }
+
+        /// <summary> DELETE
+        /// Deletes a teacher based on the provided ID.
+        /// </summary>
+        /// <param name="ID">teacher ID to delete</param>
+        /// <returns>
+        /// Redirects to the teacher list page after deletion.
+        /// </returns>
+        [HttpPost]
+        [Route(template: "/DeleteIsConfirmed/{ID}")]
+        public IActionResult Delete(int ID)
+        {
+            _api.DeleteTeacher(ID);
+
+            return RedirectToAction("List");
+        }
+
+        /// <summary> DELETE CONFIRIMATION
+        /// Displays a confirmation prompt before deleting a teacher.
+        /// </summary>
+        /// <param name="ID">The ID of the teacher to delete.</param>
+        /// <returns>
+        /// A view showing the teacher's information and asking for deletion confirmation.
+        /// </returns>
+
+        [HttpGet]
+        [Route(template: "/TeacherPage/DeleteCon/{ID}")]
+        public IActionResult DeleteConfirmResult(int ID)
+        {
+
+            Teacher teacher = _api.FindTeacher(ID);
+            return View(teacher);
+        }
+
+        /// <summary>
+        /// Returns the form view for adding a new teacher
+        /// </summary>
+        /// <returns>
+        /// A View for entering new teacher information
+        /// </returns>
+
+        [HttpGet]
+        [Route(template: "/New")]
+
+        public IActionResult New()
+        {
+            return View();
+        }
+
     }
 }

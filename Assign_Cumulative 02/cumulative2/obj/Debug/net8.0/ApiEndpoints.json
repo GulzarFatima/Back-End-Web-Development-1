@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "cumulative1.Controllers.TeacherAPIController",
+    "Method": "addATeacher",
+    "RelativePath": "api/TeacherAPI/addATeacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teacher",
+        "Type": "cumulative1.Models.Teacher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cumulative1.Controllers.TeacherAPIController",
     "Method": "DeleteTeacher",
     "RelativePath": "api/TeacherAPI/DeleteTeacher/{TeacherId}",
     "HttpMethod": "DELETE",
@@ -13,17 +29,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Int32",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "cumulative1.Controllers.TeacherAPIController",
@@ -70,5 +76,47 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "cumulative1.Controllers.TeacherPageController",
+    "Method": "Delete",
+    "RelativePath": "DeleteIsConfirmed/{ID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cumulative1.Controllers.TeacherPageController",
+    "Method": "New",
+    "RelativePath": "New",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cumulative1.Controllers.TeacherPageController",
+    "Method": "DeleteConfirmResult",
+    "RelativePath": "TeacherPage/DeleteCon/{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
