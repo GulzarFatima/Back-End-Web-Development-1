@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gulfa\\Documents\\GitHub\\Back-End-Web-Development-1\\Assign_Cumulative 02\\cumulative2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{62360E67-DACB-DB91-3070-5DEF2792A47A}|cumulative1.csproj|c:\\users\\gulfa\\documents\\github\\back-end-web-development-1\\assign_cumulative 02\\cumulative2\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62360E67-DACB-DB91-3070-5DEF2792A47A}|cumulative1.csproj|solutionrelative:controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\gulfa\\Documents\\GitHub\\Back-End-Web-Development-1\\Assign_Cumulative 03\\cumulative2\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeacherAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\gulfa\\Documents\\GitHub\\Back-End-Web-Development-1\\Assign_Cumulative 02\\cumulative2\\Controllers\\TeacherAPIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TeacherAPIController.cs",
-              "ToolTip": "C:\\Users\\gulfa\\Documents\\GitHub\\Back-End-Web-Development-1\\Assign_Cumulative 02\\cumulative2\\Controllers\\TeacherAPIController.cs",
-              "RelativeToolTip": "Controllers\\TeacherAPIController.cs",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAowAQBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:50:42.419Z",
-              "EditorCaption": ""
             }
           ]
         }

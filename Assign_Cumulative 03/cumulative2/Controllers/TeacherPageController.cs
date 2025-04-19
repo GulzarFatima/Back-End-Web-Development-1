@@ -147,5 +147,26 @@ namespace cumulative1.Controllers
             return View();
         }
 
+        /// <summary>
+        /// Update a teacher's information.
+        /// </summary>
+        
+        [HttpPost]
+        public IActionResult update(int id, string TeacherFName, string TeacherLname, string HireDate)
+        {
+            Teacher UpdatedTeacher = new Teacher();
+            UpdatedTeacher.TeacherFirstName = TeacherFName;
+            UpdatedTeacher.TeacherLastName = TeacherLname;
+            UpdatedTeacher.HireDate = Convert.ToDateTime(HireDate);
+
+            UpdatedTeacher.TeacherId = id;
+
+         
+            _api.UpdateTeacher(id, UpdatedTeacher);
+
+            return RedirectToAction("Show", new { id = id });
+
+        }
+
     }
 }

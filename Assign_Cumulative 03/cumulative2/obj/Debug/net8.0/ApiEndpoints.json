@@ -78,6 +78,27 @@
     ]
   },
   {
+    "ContainingType": "cumulative1.Controllers.TeacherAPIController",
+    "Method": "UpdateTeacher",
+    "RelativePath": "api/TeacherAPI/UpdateTeacher/{TeacherId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TeacherId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "teacher",
+        "Type": "cumulative1.Models.Teacher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "cumulative1.Controllers.TeacherPageController",
     "Method": "Delete",
     "RelativePath": "DeleteIsConfirmed/{ID}",

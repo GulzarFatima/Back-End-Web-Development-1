@@ -225,10 +225,15 @@ namespace cumulative1.Controllers
         [Route(template: "addATeacher")]
         public IActionResult addATeacher([FromBody] Teacher teacher)
         {
-            // Check if required fields are empty
+            /// check if required fields are empty
             if (string.IsNullOrWhiteSpace(teacher.TeacherFirstName) || string.IsNullOrWhiteSpace(teacher.TeacherLastName))
             {
                 return BadRequest("First name and last name are required.");
+            }
+            /// check if hire date is in the future
+            if (teacher.HireDate > DateTime.Now)
+            {
+                return BadRequest("Hire date cannot be in the future.");
             }
 
             int TagId = 0;
@@ -254,6 +259,58 @@ namespace cumulative1.Controllers
             }
 
             return Ok($"Added Successfully with ID: {TagId}");
+        }
+
+        /// <summary>
+        /// Updates a teacher's information in the database. Data comes from the Teacher object, and the request URL contains the ID.
+        /// </summary>
+        /// <param name="TeacherId">The ID of the teacher to update (from the route)</param>
+        /// <param name="teacher">The updated teacher object (excluding TeacherId and EmployeeID)</param>
+        /// <returns>
+        /// The updated teacher object after changes are saved to the database.
+        /// </returns>
+
+        [HttpPut(template: "UpdateTeacher/{TeacherId}")]
+        public IActionResult UpdateTeacher(int TeacherId, [FromBody] Teacher teacher)
+        {
+            // Check if required fields are empty
+            if (string.IsNullOrWhiteSpace(teacher.TeacherFirstName) || string.IsNullOrWhiteSpace(teacher.TeacherLastName))
+            {
+                return BadRequest("First name and last name are required.");
+            }
+
+            // Check if hire date is in the future
+            if (teacher.HireDate > DateTime.Now)
+            {
+                return BadRequest("Hire date cannot be in the future.");
+            }
+
+            // Connect to the database.
+            MySqlConnection Connection = _context.GetConnection();
+
+            // open the connection.
+            Connection.Open();
+
+            // create a SQL UPDATE command to modify the teacher's data.
+            MySqlCommand Command = Connection.CreateCommand();
+            Command.CommandText = "UPDATE teachers SET teacherfname = @teacherfname, teacherlname = @teacherlname, hiredate = @HireDate, salary = @Salary WHERE teacherid = @id";
+
+            //parameters 
+            Command.Parameters.AddWithValue("@teacherfname", teacher.TeacherFirstName);
+            Command.Parameters.AddWithValue("@teacherlname", teacher.TeacherLastName);
+            Command.Parameters.AddWithValue("@HireDate", teacher.HireDate);
+            Command.Parameters.AddWithValue("@Salary", teacher.Salary);
+            Command.Parameters.AddWithValue("@id", TeacherId);
+
+            Command.Prepare();
+            Command.ExecuteNonQuery();
+
+            // Close the database connection.
+            Connection.Close();
+
+            Teacher updated = FindTeacher(TeacherId);
+
+            return Ok(updated);
         }
 
     }
