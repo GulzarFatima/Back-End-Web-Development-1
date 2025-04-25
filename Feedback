@@ -1,0 +1,25 @@
+Great work, and congratulations on a successful semester!
+
+Feel free to bookmark the example github repositories if you find them helpful.
+
+You have duplicated validation logic on your api and your controller. Ideally you would have one service that handles the validation and update operation, so that you wouldn't have to adjust your code in two places if the validation criteria changes.
+
+In the next semester, you will have the opportunity to build your own content management system based on your passion. You can start thinking about what you are passionate about now!
+
+In the next semester, we will be exploring some alternative tools to manage our database, such as Entity Framework Core. The links provided in Module 13 / Module 14 on blackboard are a good introduction
+
+As part of your testing, show what happens when you try to update a teacher that does not exist through your API and web pages.
+
+As always, make sure to include detailed summary blocks for each of your API methods, including the Update Teacher request.
+
+In your summary blocks, make sure to include an example, including the HTTP verb, payload request body, required request headers, and response body.
+
+You can use JavaScript to block the web page request to update the teacher as part of client side validation.
+
+When using JS client validation, display labels beside offending form inputs. That way, the user can see multiple errors at once, and they can refer back to the changes that need to be made.
+
+You can follow similar patterns for update functionality of courses and students as well.
+
+When updating a course, the API can receive a foreign key integer for the teacher ID, but the web page should include a select list with each teacher name.
+
+For AJAX Update, you can trigger an XHR event with JavaScript that calls the Teacher API update endpoint. For details on sending an XHR request, you can see the github branch 'list-add-delete' on the core blog repository.
